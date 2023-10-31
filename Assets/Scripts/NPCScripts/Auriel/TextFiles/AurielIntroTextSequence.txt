@@ -1,0 +1,8 @@
+Hej, Har du kul!
+|Ja *Nej *Jag vet inte.|
+Varför har du kul?|
+Du är rolig!
+*Jag är glad!
+*Jag är inte glad.|
+Ok tack för mig|
+*Hej då!
